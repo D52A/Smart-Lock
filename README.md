@@ -1,2 +1,2 @@
 # Smart-Lock
-基于STM32C8T6
+基于STM32F103C8T6
